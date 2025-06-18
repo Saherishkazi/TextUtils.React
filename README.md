@@ -29,7 +29,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Saherishkazi/TextUtils.React.git
 cd TextUtils.React
 npm install
 npm start
