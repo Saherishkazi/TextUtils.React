@@ -28,7 +28,6 @@ function App() {
       setAlert(null);
     }, 3000);
   };
-
   const toggleMode = () => {
     if (Mode === "light") {
       setMode("dark");
@@ -39,6 +38,7 @@ function App() {
     }
   };
 
+  
   return (
     <>
       <Router>
